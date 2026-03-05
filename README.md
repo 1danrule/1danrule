@@ -1,5 +1,11 @@
-## Hi there 👋
+## **Hi there 👋**
 
+I`m Dan, a beginner backend developer based in Germany. I build projects and constantly practice to improve my skills.
+
+**These days I’m focused on:**
+  
+  * Django, DRF, React 
+  * 
 <!--
 **1danrule/1danrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
