@@ -4,7 +4,7 @@ I'm Dan, a backend developer based in Germany. I build projects and constantly p
 
 **These days I’m focused on:**
 
-* Django, DRF, React  
+* Django, DRF, React, Docker, PostgreSQL  
 * Creating small projects including AI-related experiments  
 * Practicing clean and structured code  
 
